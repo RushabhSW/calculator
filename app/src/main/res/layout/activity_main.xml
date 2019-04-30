@@ -41,15 +41,15 @@
 
             <TextView
                     android:id="@+id/tvClear"
-                    style="@style/NumberButtonStyle"
+                    style="@style/ActionButtonStyle"
                     android:text="@string/clr"/>
             <TextView
                     android:id="@+id/tvOpen"
-                    style="@style/NumberButtonStyle"
+                    style="@style/ActionButtonStyle"
                     android:text="@string/open"/>
             <TextView
                     android:id="@+id/tvClose"
-                    style="@style/NumberButtonStyle"
+                    style="@style/ActionButtonStyle"
                     android:text="@string/close"/>
             <TextView
                     android:id="@+id/tvDivide"
